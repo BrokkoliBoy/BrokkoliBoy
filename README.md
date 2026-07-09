@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Chris and I am a full time Unity developer.
+My name is Chris and I am a full time Unity developer. I've been working and developing a medical VR app at living brain since 2020. In early 2025 I have taken the role of head of development and lead programmer.
+
+I like programming. Be it with my old love Unity3D, Android Studio, learning and playing around with Claude or program fancy remote controlls for my brothers Ardiuno. I like programming because it gives me an opportunity to express my creativity like nothing else can. I can create interactive experiences that affect people in ways I envision. I am presented problems that I can find elegant solutions to. I can build systems that I want to lose myself in... and so much more.
 
 <!--
 **Chris/Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
