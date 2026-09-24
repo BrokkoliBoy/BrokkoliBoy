@@ -6,7 +6,7 @@ I like programming. Be it with my old love Unity3D, Unreal (new interest), Andro
 
 I've just learned how to properly utilize AI for project workflows and I am now continuing to utilize AI for my programming workflows.
 
-Also, I am currently in the process of polishing my portfolio. I have not set anything to public yet. If you are interested in my work but can't find what you are looking for, try again in a week or so :)
+Also, I am currently in the process of polishing my portfolio and uploading a bunch of my past personal projects here on GitHub. First one up: [Pocket Healer](https://github.com/BrokkoliBoy/PocketHealer), a small WoW Priest-inspired healing simulation. More to come.
 
 <!--
 **Chris/Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
